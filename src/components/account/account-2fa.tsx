@@ -13,7 +13,7 @@ export const Account2FA: FC = () => {
         <Grid container spacing={4}>
           <Grid item md={5} xs={12}>
             <Typography color="textPrimary" variant="h6">
-              Two-factor authentication (2FA) Test
+              Two-factor authentication (2FA)
             </Typography>
             <Typography color="textSecondary" variant="body2">
               Enhanced security for your mention account
